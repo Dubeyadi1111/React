@@ -1,0 +1,8 @@
+# Static Server in Node.js
+
+A simple static file server built using Node.js without any external libraries. This server serves HTML, CSS, JS, images, and other static files from a specified directory.
+
+## 🚀 Features
+
+- Serves static files (HTML, CSS, JS, images, etc.)
+- Handles 404 for missing files.
